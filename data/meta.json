@@ -1,0 +1,2602 @@
+{
+ "1": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "wink"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "2": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "3": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "glow"
+  }
+ ],
+ "4": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "5": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "6": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "7": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "8": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "9": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "charcoal"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "10": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "11": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "12": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "13": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "antenna"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "14": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "antenna"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "15": [
+  {
+   "trait_type": "Background",
+   "value": "dusk"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "16": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "wink"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "17": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "wink"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "pout"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "18": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "19": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "20": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "21": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "22": [
+  {
+   "trait_type": "Background",
+   "value": "dusk"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "glow"
+  }
+ ],
+ "23": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "halo"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "24": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "25": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "26": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "antenna"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "27": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "antenna"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "28": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "antenna"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "29": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "30": [
+  {
+   "trait_type": "Background",
+   "value": "dusk"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "31": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "laser"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "32": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "33": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "crown"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "34": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "wink"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "halo"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "35": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "36": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "pout"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "37": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "38": [
+  {
+   "trait_type": "Background",
+   "value": "dusk"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "39": [
+  {
+   "trait_type": "Background",
+   "value": "dusk"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "pout"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "40": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "41": [
+  {
+   "trait_type": "Background",
+   "value": "dusk"
+  },
+  {
+   "trait_type": "Body",
+   "value": "charcoal"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "pout"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "starlight"
+  }
+ ],
+ "42": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "prismatic"
+  }
+ ],
+ "43": [
+  {
+   "trait_type": "Background",
+   "value": "midnight"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "44": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "45": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "46": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "glow"
+  }
+ ],
+ "47": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "charcoal"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "48": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "49": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "50": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "charcoal"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "51": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "52": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "53": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "54": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "55": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "56": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "charcoal"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "crown"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "57": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "pout"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "58": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "59": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "60": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "61": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "pout"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "halo"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "62": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "63": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "64": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "glow"
+  }
+ ],
+ "65": [
+  {
+   "trait_type": "Background",
+   "value": "dusk"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "66": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "wink"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "67": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "wink"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "68": [
+  {
+   "trait_type": "Background",
+   "value": "dusk"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "antenna"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "69": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "glow"
+  }
+ ],
+ "70": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "pout"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "71": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "charcoal"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "wink"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "pout"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "antenna"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "72": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "73": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "74": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "antenna"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "75": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "76": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sparkle"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "starlight"
+  }
+ ],
+ "77": [
+  {
+   "trait_type": "Background",
+   "value": "dusk"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "pout"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "halo"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "78": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "laser"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "79": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "80": [
+  {
+   "trait_type": "Background",
+   "value": "dusk"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "antenna"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "81": [
+  {
+   "trait_type": "Background",
+   "value": "midnight"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "halo"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "82": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "83": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "84": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "85": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "wink"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "pout"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "86": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "87": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "lavender"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "gasp"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "halo"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "88": [
+  {
+   "trait_type": "Background",
+   "value": "meadow"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "halo"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "89": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "wink"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "halo"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "90": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "peach"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "crown"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "91": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "wink"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "92": [
+  {
+   "trait_type": "Background",
+   "value": "dusk"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "wink"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "93": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "pout"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "94": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "95": [
+  {
+   "trait_type": "Background",
+   "value": "dusk"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "scarf"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "96": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "97": [
+  {
+   "trait_type": "Background",
+   "value": "sky"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "none"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "98": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "crown"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "99": [
+  {
+   "trait_type": "Background",
+   "value": "blush"
+  },
+  {
+   "trait_type": "Body",
+   "value": "mint"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "sleepy"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "cat"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ],
+ "100": [
+  {
+   "trait_type": "Background",
+   "value": "mist"
+  },
+  {
+   "trait_type": "Body",
+   "value": "snow"
+  },
+  {
+   "trait_type": "Eyes",
+   "value": "dot"
+  },
+  {
+   "trait_type": "Mouth",
+   "value": "smile"
+  },
+  {
+   "trait_type": "Accessory",
+   "value": "bow"
+  },
+  {
+   "trait_type": "Aura",
+   "value": "none"
+  }
+ ]
+}

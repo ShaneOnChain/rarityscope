@@ -1,0 +1,141 @@
+@import "tailwindcss";
+
+/*
+ * ┌──────────────────────────────────────────────────────────────────────────┐
+ * │  RarityScope THEME — edit the values in :root below to re-skin the site.   │
+ * │  These are the ONLY colors/fonts you need to touch to make it your own.    │
+ * │  (Collection data — issuer, art, rarity methods — lives in                 │
+ * │   collection.config.ts, not here.)                                          │
+ * └──────────────────────────────────────────────────────────────────────────┘
+ */
+:root {
+  /* Accent: the "rare" highlight (top band + primary actions). */
+  --color-accent: #32e685;
+  --color-accent-soft: rgba(50, 230, 133, 0.15); /* faint tint (hovers, highlighted traits) */
+  --color-accent-glow: rgba(50, 230, 133, 0.4); /*  glow halo */
+
+  /* Accent 2: the "common"/secondary highlight, and error/invalid states. */
+  --color-accent-2: #9a52ff;
+  --color-accent-2-soft: rgba(154, 82, 255, 0.15);
+  --color-accent-2-glow: rgba(154, 82, 255, 0.3);
+
+  /* Mint: the "minted vs still in the pool" marker color. */
+  --color-mint: #19a3ff;
+
+  /* Surfaces: page background + nested panel layers (0 = base, 3 = topmost). */
+  --color-dark: #111112;
+  --color-surface-0: #1a1a1d;
+  --color-surface-1: #232325;
+  --color-surface-2: #2e2e32;
+  --color-surface-3: #3a3a3f;
+
+  /* Text. */
+  --color-text-primary: #f5f5f7;
+  --color-text-secondary: #9a9aa0;
+  --color-text-muted: #6b6b73;
+}
+
+/* Expose the theme tokens to Tailwind utilities (bg-accent, text-accent-2, bg-mint, …). */
+@theme inline {
+  --color-accent: var(--color-accent);
+  --color-accent-soft: var(--color-accent-soft);
+  --color-accent-glow: var(--color-accent-glow);
+  --color-accent-2: var(--color-accent-2);
+  --color-accent-2-soft: var(--color-accent-2-soft);
+  --color-accent-2-glow: var(--color-accent-2-glow);
+  --color-mint: var(--color-mint);
+  --color-dark: var(--color-dark);
+  --color-surface-0: var(--color-surface-0);
+  --color-surface-1: var(--color-surface-1);
+  --color-surface-2: var(--color-surface-2);
+  --color-surface-3: var(--color-surface-3);
+  --color-text-primary: var(--color-text-primary);
+  --color-text-secondary: var(--color-text-secondary);
+  --color-text-muted: var(--color-text-muted);
+  /* Fonts — swap the families in src/app/layout.tsx (next/font). */
+  --font-display: "Work Sans", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "Space Mono", monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+body {
+  background: var(--color-dark);
+  color: var(--color-text-primary);
+  font-family: var(--font-body);
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  background: var(--color-accent-soft);
+  color: var(--color-text-primary);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* Glow effects. */
+.glow-accent {
+  box-shadow: 0 0 20px var(--color-accent-glow), 0 0 40px var(--color-accent-soft);
+}
+.glow-accent-2 {
+  box-shadow: 0 0 20px var(--color-accent-2-glow), 0 0 40px var(--color-accent-2-soft);
+}
+.text-gradient-accent {
+  background: linear-gradient(135deg, var(--color-accent) 0%, color-mix(in srgb, var(--color-accent) 60%, var(--color-accent-2)) 50%, var(--color-accent-2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+@keyframes pulse-dot {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+}
+.animate-pulse-dot {
+  animation: pulse-dot 2.4s ease-in-out infinite;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.animate-fade-in {
+  animation: fade-in 220ms ease-out both;
+}
+
+.pb-safe {
+  padding-bottom: calc(0.75rem + env(safe-area-inset-bottom));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .animate-pulse-dot,
+  .animate-fade-in {
+    animation: none;
+  }
+}
